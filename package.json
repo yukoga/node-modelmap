@@ -1,0 +1,31 @@
+{
+  "name": "node-odmap",
+  "version": "0.0.1",
+  "description": "This is Object-data mapper for node.js",
+  "directories" : { "lib": "./lib" },
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "dependencies":{
+    "jquery": "^3.0.0",
+    "glob": "^4.3.5",
+    "hashmap": "^2.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yukoga/node-odmap.git"
+  },
+  "keywords": [
+    "node.js",
+    "object",
+    "data",
+    "mapping"
+  ],
+  "author": "yukoga",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yukoga/node-odmap/issues"
+  },
+  "homepage": "https://github.com/yukoga/node-odmap"
+}

@@ -1,0 +1,15 @@
+#mac
+.DS_Store
+._
+#sass
+.sass-cache/
+#WP用
+.htaccess
+.log
+#for node
+compiled
+node_modules/
+.publish/
+*.swp
+*.swo
+*.swn

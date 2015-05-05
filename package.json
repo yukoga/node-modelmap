@@ -1,6 +1,6 @@
 {
   "name": "node-modelmap",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This is Object-data mapper for node.js",
   "directories" : { "lib": "./lib" },
   "main": "index.js",

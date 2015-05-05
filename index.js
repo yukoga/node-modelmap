@@ -4,11 +4,8 @@ var hashmap = require('hashmap'),
 
 var _models = new hashmap();
 var _load = function(path) {
-  console.log('path is : ' + path);
   var _key = path.match(/\/([^\/]+)\.js$/)[1];
-  console.log('_key is : ' + _key);
   _models.set(_key, require(path)());
-  console.log(_models[_key]);
 }
 
 module.exports.load = function(path) {

@@ -1,5 +1,5 @@
 {
-  "name": "node-odmap",
+  "name": "node-modelmap",
   "version": "0.0.1",
   "description": "This is Object-data mapper for node.js",
   "directories" : { "lib": "./lib" },
